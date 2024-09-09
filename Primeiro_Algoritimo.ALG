@@ -1,19 +1,25 @@
 Algoritmo "Variaveis"
-// Algoritimo de criação de variaveis e comandos simples
+// Algoritimo de criaÃ§Ã£o de variaveis e comandos simples
 
 Var
-//declaração de variaveis
+//declaraÃ§Ã£o de variaveis
    msg_1: caractere
    msg_2: caractere
 
 Inicio
-// Atribuição de variaveis
-   msg_1 <- "Olá, mundo!"
+// AtribuiÃ§Ã£o de variaveis
+   msg_1 <- "OlÃ¡, mundo!"
    msg_2 <- "Mensagem"
 
 // comandos de saida
    escreval (msg_1)
    escreval (msg_2)
    escreva ("Mensagem final")
-   
+
+
+// saÃ­da:
+// OlÃ¡, mundo!
+// Mensagem
+// Mensagem final
+
 Fimalgoritmo
